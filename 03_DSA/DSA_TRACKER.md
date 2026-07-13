@@ -6,9 +6,11 @@
 
 ## 📊 Summary by Pattern
 
-| Pattern | Solved | Target | Status |
+* **Starting Baseline (Pre-Career OS):** 39 Problems Solved (NeetCode Practice)
+
+| Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Arrays & Hashing** | 0 | 25 | 🟥 Not Started |
+| **Arrays & Hashing** | 0 | 25 | 🟧 Restarting |
 | **Two Pointers** | 0 | 20 | 🟥 Not Started |
 | **Sliding Window** | 0 | 15 | 🟥 Not Started |
 | **Stack & Queue** | 0 | 15 | 🟥 Not Started |
