@@ -36,6 +36,7 @@
 - [ ] **ML-02:** Feature Engineering & Advanced Ensemble Methods (XGBoost/LightGBM)
 - [ ] **DL-01:** Custom Computer Vision or NLP Model (CNN from scratch / Custom LSTM text generator)
 - [ ] **DL-02:** Fine-Tuning/Transfer Learning (ViT or BERT fine-tuned for a domain-specific dataset)
+- [x] **AI-00:** **AI PR-Reviewer (pr-pulse)** - Automated code reviewer utilizing LLMs and GitHub API integration.
 - [ ] **AI-01:** RAG (Retrieval-Augmented Generation) Pipeline with vector search, local evaluations, and latency tracking.
 - [ ] **AI-02:** Autonomous Multi-Agent System using structured outputs, tool use, and custom memory routers.
 
@@ -62,11 +63,11 @@
 
 | Metric | Status / Count | Goal (Yearly) |
 | :--- | :--- | :--- |
-| **Days Active (Commits)** | 1 | 250+ Days |
-| **Current Commit Streak** | 1 Day | Maximize |
-| **LinkedIn Posts** | 0 | 50 Posts |
-| **X (Twitter) Posts** | 0 | 50 Posts |
-| **Projects Shipped** | 0 | 4 Major Projects |
+| **Days Active (Commits)** | 2 | 250+ Days |
+| **Current Commit Streak** | 2 Days | Maximize |
+| **LinkedIn Posts** | 1 | 50 Posts |
+| **X (Twitter) Posts** | 1 | 50 Posts |
+| **Projects Shipped** | 1 | 4 Major Projects |
 
 ---
 
