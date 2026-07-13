@@ -2,14 +2,15 @@
 
 ## 🏆 Key Wins
 * **Completed and Shipped `pr-pulse`**: Finished building the AI PR-Reviewer project and pushed it live to GitHub.
+* **Finished Anthropic's AI Fluency Course**: Completed the *AI Fluency for Students* course from Anthropic Academy to level up prompt engineering techniques.
 * **`lecture` Repository Upgraded**: Made key updates and improvements to the coursework/lecture repository.
 
 ---
 
 ## 🤖 AI Learning & Hands-On Code
-* **Topics Explored:** Classical Machine Learning fundamentals.
-* **Hours Invested:** ~15 minutes (Initial review of concepts).
-* **What I can now explain/build:** Learnt basic ML workflows and structures. Built and finalized the workflow for `pr-pulse` (automated AI code reviews).
+* **Topics Explored:** Classical Machine Learning fundamentals & Prompt Engineering (Anthropic AI Fluency).
+* **Hours Invested:** ~15 minutes (ML theory) + Course time.
+* **What I can now explain/build:** Can design structured, high-accuracy prompts to reduce hallucination and steer outputs. Built and finalized the workflow for `pr-pulse` (automated AI code reviews).
 * **Repository/Code Links:** [pr-pulse GitHub Repository](https://github.com/JustKay1029/pr-pulse)
 
 ---
@@ -44,8 +45,8 @@
 ---
 
 ## ✍️ Content Creation
-* **LinkedIn Post(s):** Posted updates about building and projects.
-* **X (Twitter) Post(s):** Posted progress updates.
+* **LinkedIn Post:** [Announcing pr-pulse & Anthropic AI Fluency Course](https://www.linkedin.com/posts/kavya-gupta-b65751365_linkedin-ai-anthropic-activity-7481025565261697024-wyqM)
+* **X (Twitter) Post:** [Course completion & building pr-pulse tweet](https://x.com/JustKay2910/status/2075262683897798875?s=20)
 
 ---
 
