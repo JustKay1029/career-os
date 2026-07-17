@@ -28,9 +28,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 
 | # | Date | Problem | Pattern | Difficulty | Solution File | Key Takeaway |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays & Hashing | Easy | [contains_duplicate.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/contains_duplicate.py) | Using a hash set reduces check time from \(O(N^2)\) to \(O(N)\). |
-| 2 | | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Arrays & Hashing | Easy | [two_sum.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/two_sum.py) | Single-pass hash map records index to find complement in \(O(1)\) lookup. |
-| 3 | 2026-07-17 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack & Queue | Medium | [neetcode-submissions](https://github.com/JustKay1029/neetcode-submissions) | Process tokens sequentially; push operands onto stack and apply operators on top two popped elements. |
+| 1 | 2026-07-17 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack & Queue | Medium | [neetcode-submissions](https://github.com/JustKay1029/neetcode-submissions) | Process tokens sequentially; push operands onto stack and apply operators on top two popped elements. |
 
 ---
 
