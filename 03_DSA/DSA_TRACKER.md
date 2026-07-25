@@ -29,6 +29,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | # | Date | Problem | Pattern | Difficulty | Solution File | Key Takeaway |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 2026-07-17 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack & Queue | Medium | [neetcode-submissions](https://github.com/JustKay1029/neetcode-submissions) | Process tokens sequentially; push operands onto stack and apply operators on top two popped elements. |
+| 2 | 2026-07-25 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Bit Manipulation / Math | Easy | [0067_add_binary.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0067_add_binary.py) | Parse binary strings to integers, sum, and format back to binary. |
 
 ---
 
