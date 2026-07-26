@@ -66,7 +66,7 @@
 | :--- | :--- | :--- |
 | **Days Active (Commits)** | 4 | 250+ Days |
 | **Current Commit Streak** | 4 Days | Maximize |
-| **LinkedIn Posts** | 3 | 50 Posts |
+| **LinkedIn Posts** | 4 | 50 Posts |
 | **X (Twitter) Posts** | 1 | 50 Posts |
 | **Projects Shipped** | 3 | 4 Major Projects |
 
