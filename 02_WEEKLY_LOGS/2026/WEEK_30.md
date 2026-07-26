@@ -49,8 +49,11 @@
 ---
 
 ## ✍️ Content Creation
-* **LinkedIn Post:** [Kirana AI Pipeline Post](https://www.linkedin.com/posts/kavya-gupta-b65751365_python-artificialintelligence-geminiapi-share-7486371459498430464-q6RA)
-* **X (Twitter) Post:** None this week.
+* **LinkedIn Posts:**
+  * [Kirana AI Pipeline Post (July 24)](https://www.linkedin.com/posts/kavya-gupta-b65751365_python-artificialintelligence-geminiapi-share-7486371459498430464-q6RA)
+  * [Kenny Laptop Health MCP Server (July 26)](https://www.linkedin.com/posts/kavya-gupta-b65751365_modelcontextprotocol-mcp-python-activity-7487133596114182144-6nIm)
+* **X (Twitter) Post:**
+  * [Kenny Laptop Health MCP Server Tweet (July 26)](https://x.com/JustKay2910/status/2081368719159390570)
 
 ---
 

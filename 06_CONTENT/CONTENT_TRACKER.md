@@ -7,7 +7,7 @@
 ## 📈 Platform Summary
 
 * **LinkedIn Posts Published:** 4
-* **X (Twitter) Posts Published:** 1
+* **X (Twitter) Posts Published:** 2
 * **Active Topics:** Classical ML, Prompt Engineering, Project Announcements (pr-pulse, digital_catalog_ai, Kenny-desktop-health).
 
 ---
@@ -28,3 +28,4 @@
 | Date | Topic / Focus | Core Takeaway | Thread Link | Engagement |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-07-09 | AI Fluency & pr-pulse Announcement | Showcased course completion and building pr-pulse to avoid being AI-replaceable. | [Link](https://x.com/JustKay2910/status/2075262683897798875) | Initial announcement post. |
+| 2026-07-26 | Kenny Laptop Health MCP Server | Local Model Context Protocol server built with FastMCP and psutil. | [Link](https://x.com/JustKay2910/status/2081368719159390570) | Announced custom Jarvis-like laptop diagnostics MCP server. |
