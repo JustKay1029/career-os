@@ -12,6 +12,8 @@
 | **PROJ-02** | Deep Vision Inspector | Deep Learning | PyTorch, CNN, Docker | 🗓️ Backlog | [PROJECT_02/](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_02) |
 | **PROJ-03** | Local Document RAG Engine | Generative AI | Ollama, ChromaDB, Langfuse | 🗓️ Backlog | [PROJECT_03/](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_03) |
 | **PROJ-04** | pr-pulse (AI PR-Reviewer) | Generative AI | LLMs, GitHub API | ✅ Completed | [JustKay1029/pr-pulse](https://github.com/JustKay1029/pr-pulse) |
+| **PROJ-05** | Kenny-desktop-health (Jarvis Health) | Systems / MCP | Python, FastMCP, psutil | ✅ Completed | [JustKay1029/Kenny-desktop-health](https://github.com/JustKay1029/Kenny-desktop-health) |
+| **PROJ-06** | digital_catalog_ai (Kirana Pipeline) | Generative AI | Python, Gemini API, Schema | ✅ Completed | [JustKay1029/digital_catalog_ai](https://github.com/JustKay1029/digital_catalog_ai) |
 
 ---
 

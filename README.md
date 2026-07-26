@@ -38,7 +38,8 @@
 - [ ] **DL-02:** Fine-Tuning/Transfer Learning (ViT or BERT fine-tuned for a domain-specific dataset)
 - [x] **AI-00:** **AI PR-Reviewer (pr-pulse)** - Automated code reviewer utilizing LLMs and GitHub API integration.
 - [ ] **AI-01:** RAG (Retrieval-Augmented Generation) Pipeline with vector search, local evaluations, and latency tracking.
-- [ ] **AI-02:** Autonomous Multi-Agent System using structured outputs, tool use, and custom memory routers.
+- [x] **AI-02:** **Kirana AI Catalog Pipeline (digital_catalog_ai)** - 3-stage multi-agent pipeline enforcing structured JSON schemas.
+- [x] **SYS-01:** **Jarvis Laptop Health MCP Server (Kenny-desktop-health)** - Local diagnostics tool exposing CPU/RAM vitals to LLM clients.
 
 #### Career & Authority
 - [ ] Land Research or Industry Internship 1
@@ -55,7 +56,7 @@
 >
 > **Secondary Goal:** Solve 25 structured DSA problems targeting Arrays, Strings, and Two-Pointer patterns.
 >
-> **Academic Goal:** Boost Semester GPA by mastering key subjects and scoring 9+ in internal/external assessments.
+> **Academic Goal:** Boost Semester GPA by mastering key assessments.
 
 ---
 
@@ -63,11 +64,11 @@
 
 | Metric | Status / Count | Goal (Yearly) |
 | :--- | :--- | :--- |
-| **Days Active (Commits)** | 2 | 250+ Days |
-| **Current Commit Streak** | 2 Days | Maximize |
-| **LinkedIn Posts** | 1 | 50 Posts |
+| **Days Active (Commits)** | 4 | 250+ Days |
+| **Current Commit Streak** | 4 Days | Maximize |
+| **LinkedIn Posts** | 3 | 50 Posts |
 | **X (Twitter) Posts** | 1 | 50 Posts |
-| **Projects Shipped** | 1 | 4 Major Projects |
+| **Projects Shipped** | 3 | 4 Major Projects |
 
 ---
 
