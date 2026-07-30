@@ -15,7 +15,7 @@
 | **Sliding Window** | 0 | 15 | 🟥 Not Started |
 | **Stack & Queue** | 1 | 15 | 🟨 In Progress |
 | **Binary Search** | 0 | 15 | 🟥 Not Started |
-| **Linked List** | 1 | 15 | 🟨 In Progress |
+| **Linked List** | 3 | 15 | 🟨 In Progress |
 | **Trees & BST** | 0 | 25 | 🟥 Not Started |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
 | **Dynamic Programming** | 0 | 25 | 🟥 Not Started |
@@ -33,6 +33,9 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 3 | 2026-07-26 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Two Pointers | Hard | [0042_trapping_rain_water.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0042_trapping_rain_water.py) | Prefix/Suffix arrays to precompute max boundary heights at each index; min(L, R) - current height defines trapped water (O(N) space). |
 | 4 | 2026-07-27 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Two Pointers | Easy | [0344_reverse_string.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0344_reverse_string.py) | Use two converging pointers at both ends of the string; swap elements in-place in O(1) space. |
 | 5 | 2026-07-28 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | Linked List | Medium | [0143_reorder_list.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0143_reorder_list.py) | Find middle (slow/fast), reverse second half, weave/merge both halves (Note: Needs re-learning/retry). |
+| 6 | 2026-07-29 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | Medium | [0019_remove_nth_node_from_end_of_list.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0019_remove_nth_node_from_end_of_list.py) | Two pointers (slow, fast) with offset n. When fast reaches end, slow points to node before target. |
+| 7 | 2026-07-30 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | [0002_add_two_numbers.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0002_add_two_numbers.py) | Digit sum traversal using elementary addition logic (val = v1 + v2 + carry) with dummy head representation. |
+
 
 
 ---
