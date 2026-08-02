@@ -10,7 +10,7 @@
 
 | Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Arrays & Hashing** | 0 | 25 | 🟧 Restarting |
+| **Arrays & Hashing** | 1 | 25 | 🟨 In Progress |
 | **Two Pointers** | 2 | 20 | 🟨 In Progress |
 | **Sliding Window** | 0 | 15 | 🟥 Not Started |
 | **Stack & Queue** | 2 | 15 | 🟨 In Progress |
@@ -36,6 +36,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 6 | 2026-07-29 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | Medium | [0019_remove_nth_node_from_end_of_list.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0019_remove_nth_node_from_end_of_list.py) | Two pointers (slow, fast) with offset n. When fast reaches end, slow points to node before target. |
 | 7 | 2026-07-30 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | [0002_add_two_numbers.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0002_add_two_numbers.py) | Digit sum traversal using elementary addition logic (val = v1 + v2 + carry) with dummy head representation. |
 | 8 | 2026-07-31 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stack & Queue | Hard | [0084_largest_rectangle_in_histogram.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0084_largest_rectangle_in_histogram.py) | Monotonic increasing stack to track indices; pop and calculate area when a shorter bar is encountered. Append 0 height to flush the stack. |
+| 9 | 2026-08-01 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays & Hashing | Easy | [0217_contains_duplicate.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0217_contains_duplicate.py) | Comparison of length len(nums) != len(set(nums)) vs. iterative set traversal seen.add(i) in O(N) time/space. |
 
 
 
