@@ -11,7 +11,7 @@
 | Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
 | **Arrays & Hashing** | 1 | 25 | 🟨 In Progress |
-| **Two Pointers** | 3 | 20 | 🟨 In Progress |
+| **Two Pointers** | 4 | 20 | 🟨 In Progress |
 | **Sliding Window** | 0 | 15 | 🟥 Not Started |
 | **Stack & Queue** | 2 | 15 | 🟨 In Progress |
 | **Binary Search** | 0 | 15 | 🟥 Not Started |
@@ -38,6 +38,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 8 | 2026-07-31 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Stack & Queue | Hard | [0084_largest_rectangle_in_histogram.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0084_largest_rectangle_in_histogram.py) | Monotonic increasing stack to track indices; pop and calculate area when a shorter bar is encountered. Append 0 height to flush the stack. |
 | 9 | 2026-08-01 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays & Hashing | Easy | [0217_contains_duplicate.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0217_contains_duplicate.py) | Comparison of length len(nums) != len(set(nums)) vs. iterative set traversal seen.add(i) in O(N) time/space. |
 | 10 | 2026-08-02 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | Easy | [0125_valid_palindrome.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0125_valid_palindrome.py) | Two pointer approach comparing lowercase alphanumeric characters after moving pointers past non-alphanumeric. |
+| 11 | 2026-08-03 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Two Pointers | Easy | [0009_palindrome_number.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0009_palindrome_number.py) | Python-specific string slicing check s == s[::-1] (Note: Mathematical reversal is also possible without converting to string). |
 
 
 
