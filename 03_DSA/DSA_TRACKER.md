@@ -14,7 +14,7 @@
 | **Two Pointers** | 4 | 20 | 🟨 In Progress |
 | **Sliding Window** | 0 | 15 | 🟥 Not Started |
 | **Stack & Queue** | 2 | 15 | 🟨 In Progress |
-| **Binary Search** | 0 | 15 | 🟥 Not Started |
+| **Binary Search** | 1 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
 | **Trees & BST** | 0 | 25 | 🟥 Not Started |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
@@ -39,6 +39,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 9 | 2026-08-01 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays & Hashing | Easy | [0217_contains_duplicate.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0217_contains_duplicate.py) | Comparison of length len(nums) != len(set(nums)) vs. iterative set traversal seen.add(i) in O(N) time/space. |
 | 10 | 2026-08-02 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | Easy | [0125_valid_palindrome.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0125_valid_palindrome.py) | Two pointer approach comparing lowercase alphanumeric characters after moving pointers past non-alphanumeric. |
 | 11 | 2026-08-03 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Two Pointers | Easy | [0009_palindrome_number.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0009_palindrome_number.py) | Python-specific string slicing check s == s[::-1] (Note: Mathematical reversal is also possible without converting to string). |
+| 12 | 2026-08-04 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | Medium | [0875_koko_eating_bananas.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0875_koko_eating_bananas.py) | Binary search on eating speed range [1, max(piles)] checking total_hours <= h (Note: Solved under high fatigue/needs re-solve). |
 
 
 
