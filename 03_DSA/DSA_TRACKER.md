@@ -12,7 +12,7 @@
 | :--- | :---: | :---: | :--- |
 | **Arrays & Hashing** | 1 | 25 | 🟨 In Progress |
 | **Two Pointers** | 4 | 20 | 🟨 In Progress |
-| **Sliding Window** | 0 | 15 | 🟥 Not Started |
+| **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 2 | 15 | 🟨 In Progress |
 | **Binary Search** | 1 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
@@ -40,6 +40,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 10 | 2026-08-02 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | Easy | [0125_valid_palindrome.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0125_valid_palindrome.py) | Two pointer approach comparing lowercase alphanumeric characters after moving pointers past non-alphanumeric. |
 | 11 | 2026-08-03 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Two Pointers | Easy | [0009_palindrome_number.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0009_palindrome_number.py) | Python-specific string slicing check s == s[::-1] (Note: Mathematical reversal is also possible without converting to string). |
 | 12 | 2026-08-04 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | Medium | [0875_koko_eating_bananas.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0875_koko_eating_bananas.py) | Binary search on eating speed range [1, max(piles)] checking total_hours <= h (Note: Solved under high fatigue/needs re-solve). |
+| 13 | 2026-08-05 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window | Medium | [0003_longest_substring_without_repeating_characters.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0003_longest_substring_without_repeating_characters.py) | Dynamic sliding window using set seen to track characters. Shrink window from left until no duplicates are present. |
 
 
 
