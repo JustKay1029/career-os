@@ -32,7 +32,7 @@
 - [ ] Solve 300+ Problems (Interview Ready)
 
 #### Portfolio Projects
-- [ ] **ML-01:** Classic Regression/Classification (e.g., Housing/Customer Churn with custom evaluation pipelines)
+- [x] **ML-01:** **Gurgaon Rent Price Predictor** - Real estate regression pipeline utilizing IQR outlier mitigation and Scikit-Learn column transformer pipelines.
 - [ ] **ML-02:** Feature Engineering & Advanced Ensemble Methods (XGBoost/LightGBM)
 - [ ] **DL-01:** Custom Computer Vision or NLP Model (CNN from scratch / Custom LSTM text generator)
 - [ ] **DL-02:** Fine-Tuning/Transfer Learning (ViT or BERT fine-tuned for a domain-specific dataset)
@@ -68,7 +68,7 @@
 | **Current Commit Streak** | 14 Days | Maximize |
 | **LinkedIn Posts** | 5 | 50 Posts |
 | **X (Twitter) Posts** | 2 | 50 Posts |
-| **Projects Shipped** | 3 | 4 Major Projects |
+| **Projects Shipped** | 4 | 4 Major Projects |
 
 ---
 

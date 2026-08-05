@@ -8,7 +8,7 @@
 
 | Project ID | Project Name | Type | Tech Stack | Status | Repository / Folder |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **PROJ-01** | Real Estate Pricing Engine | Classical ML | Scikit-Learn, Pandas, FastAPI | 🗓️ Backlog | [PROJECT_01/](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_01) |
+| **PROJ-01** | Gurgaon Rent Price Predictor | Classical ML | Scikit-Learn, Pandas, Vercel Serverless | ✅ Completed | [JustKay1029/gurgaon_rent_price_predictor](https://github.com/JustKay1029/gurgaon_rent_price_predictor) |
 | **PROJ-02** | Deep Vision Inspector | Deep Learning | PyTorch, CNN, Docker | 🗓️ Backlog | [PROJECT_02/](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_02) |
 | **PROJ-03** | Local Document RAG Engine | Generative AI | Ollama, ChromaDB, Langfuse | 🗓️ Backlog | [PROJECT_03/](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_03) |
 | **PROJ-04** | pr-pulse (AI PR-Reviewer) | Generative AI | LLMs, GitHub API | ✅ Completed | [JustKay1029/pr-pulse](https://github.com/JustKay1029/pr-pulse) |
