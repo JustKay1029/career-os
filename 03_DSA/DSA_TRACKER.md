@@ -13,7 +13,7 @@
 | **Arrays & Hashing** | 1 | 25 | 🟨 In Progress |
 | **Two Pointers** | 4 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
-| **Stack & Queue** | 2 | 15 | 🟨 In Progress |
+| **Stack & Queue** | 3 | 15 | 🟨 In Progress |
 | **Binary Search** | 1 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
 | **Trees & BST** | 1 | 25 | 🟨 In Progress |
@@ -42,6 +42,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 12 | 2026-08-04 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | Medium | [0875_koko_eating_bananas.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0875_koko_eating_bananas.py) | Binary search on eating speed range [1, max(piles)] checking total_hours <= h (Note: Solved under high fatigue/needs re-solve). |
 | 13 | 2026-08-05 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window | Medium | [0003_longest_substring_without_repeating_characters.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0003_longest_substring_without_repeating_characters.py) | Dynamic sliding window using set seen to track characters. Shrink window from left until no duplicates are present. |
 | 14 | 2026-08-06 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees & BST | Easy | [0226_invert_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0226_invert_binary_tree.py) | Recursive pre-order traversal swapping left and right child nodes at each level. |
+| 15 | 2026-08-07 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Stack & Queue | Medium | [0853_car_fleet.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0853_car_fleet.py) | Sort cars by starting position descending. Calculate arrival times. Use stack to identify slower lead cars that form fleets. |
 
 
 
