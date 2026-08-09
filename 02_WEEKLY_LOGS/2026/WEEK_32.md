@@ -3,7 +3,7 @@
 ## 🏆 Key Wins
 * **Maintained 18-Day Commit Streak**: Kept up solid daily momentum without missing a single day of development or tracking.
 * **Integrated Gurgaon Rent Price Predictor**: Integrated the classical machine learning rent predictor project (cleaned volatile real estate data with IQR, scikit-learn preprocessing pipelines, Vercel serverless scoring runtime) into the Career OS.
-* **DSA Velocity**: Solved 6 problems this week across sliding window, trees, stack, two pointers, and binary search.
+* **DSA Velocity**: Solved 7 problems this week across sliding window, trees, stack, two pointers, and binary search.
 
 ---
 
@@ -25,7 +25,8 @@
   4. [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - Trees & BST (Easy) - August 6
   5. [853. Car Fleet](https://leetcode.com/problems/car-fleet/) - Stack & Queue (Medium) - August 7
   6. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - Trees & BST (Easy) - August 8
-* **Total Count (Cumulative):** 55 (39 Baseline + 16 new)
+  7. [100. Same Tree](https://leetcode.com/problems/same-tree/) - Trees & BST (Easy) - August 9
+* **Total Count (Cumulative):** 56 (39 Baseline + 17 new)
 * **Key Algorithmic Insight:** Shrinking a sliding window from the left until a uniqueness constraint is satisfied is an intuitive way to tackle substring constraints without $O(N^2)$ checks.
 
 ---

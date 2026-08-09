@@ -16,7 +16,7 @@
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
 | **Binary Search** | 1 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
-| **Trees & BST** | 2 | 25 | 🟨 In Progress |
+| **Trees & BST** | 3 | 25 | 🟨 In Progress |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
 | **Dynamic Programming** | 0 | 25 | 🟥 Not Started |
 
@@ -44,6 +44,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 14 | 2026-08-06 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Trees & BST | Easy | [0226_invert_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0226_invert_binary_tree.py) | Recursive pre-order traversal swapping left and right child nodes at each level. |
 | 15 | 2026-08-07 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Stack & Queue | Medium | [0853_car_fleet.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0853_car_fleet.py) | Sort cars by starting position descending. Calculate arrival times. Use stack to identify slower lead cars that form fleets. |
 | 16 | 2026-08-08 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Trees & BST | Easy | [0104_maximum_depth_of_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0104_maximum_depth_of_binary_tree.py) | Simple recursion: max depth of left and right subtrees + 1. |
+| 17 | 2026-08-09 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Trees & BST | Easy | [0100_same_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0100_same_tree.py) | Recursive structural and value equality check on both subtrees. |
 
 
 
