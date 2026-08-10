@@ -10,7 +10,7 @@
 
 | Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Arrays & Hashing** | 1 | 25 | 🟨 In Progress |
+| **Arrays & Hashing** | 2 | 25 | 🟨 In Progress |
 | **Two Pointers** | 4 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
@@ -45,6 +45,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 15 | 2026-08-07 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Stack & Queue | Medium | [0853_car_fleet.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0853_car_fleet.py) | Sort cars by starting position descending. Calculate arrival times. Use stack to identify slower lead cars that form fleets. |
 | 16 | 2026-08-08 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Trees & BST | Easy | [0104_maximum_depth_of_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0104_maximum_depth_of_binary_tree.py) | Simple recursion: max depth of left and right subtrees + 1. |
 | 17 | 2026-08-09 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Trees & BST | Easy | [0100_same_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0100_same_tree.py) | Recursive structural and value equality check on both subtrees. |
+| 18 | 2026-08-10 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Arrays & Hashing | Easy | [0014_longest_common_prefix.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0014_longest_common_prefix.py) | Dynamic prefix reduction using startswith checks across strings. |
 
 
 
