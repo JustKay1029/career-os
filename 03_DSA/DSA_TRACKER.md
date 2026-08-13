@@ -16,7 +16,7 @@
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
 | **Binary Search** | 1 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
-| **Trees & BST** | 3 | 25 | 🟨 In Progress |
+| **Trees & BST** | 4 | 25 | 🟨 In Progress |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
 | **Dynamic Programming** | 0 | 25 | 🟥 Not Started |
 
@@ -46,6 +46,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 16 | 2026-08-08 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Trees & BST | Easy | [0104_maximum_depth_of_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0104_maximum_depth_of_binary_tree.py) | Simple recursion: max depth of left and right subtrees + 1. |
 | 17 | 2026-08-09 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Trees & BST | Easy | [0100_same_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0100_same_tree.py) | Recursive structural and value equality check on both subtrees. |
 | 18 | 2026-08-10 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Arrays & Hashing | Easy | [0014_longest_common_prefix.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0014_longest_common_prefix.py) | Dynamic prefix reduction using startswith checks across strings. |
+| 19 | 2026-08-13 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Trees & BST | Easy | [0110_balanced_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0110_balanced_binary_tree.py) | Top-down recursive height checks recursively checking both subtrees balance status. |
 
 
 
