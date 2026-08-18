@@ -14,7 +14,7 @@
 | **Two Pointers** | 4 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
-| **Binary Search** | 2 | 15 | 🟨 In Progress |
+| **Binary Search** | 3 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
 | **Trees & BST** | 5 | 25 | 🟨 In Progress |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
@@ -49,6 +49,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 19 | 2026-08-13 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Trees & BST | Easy | [0110_balanced_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0110_balanced_binary_tree.py) | Top-down recursive height checks recursively checking both subtrees balance status. |
 | 20 | 2026-08-14 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary Search | Medium | [0153_find_minimum_in_rotated_sorted_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0153_find_minimum_in_rotated_sorted_array.py) | Binary search tracking minimums, adjusting search window based on left-sorted versus right-sorted sub-segment locations. |
 | 21 | 2026-08-15 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Trees & BST | Easy | [0572_subtree_of_another_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0572_subtree_of_another_tree.py) | Recursive traversal evaluating structural same-tree checks for each node of the main tree. |
+| 22 | 2026-08-18 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | Medium | [0033_search_in_rotated_sorted_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0033_search_in_rotated_sorted_array.py) | Python index lookup (O(N)) (Note: Optimal O(log N) binary search uses split range evaluation). |
 
 
 
