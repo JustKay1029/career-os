@@ -10,13 +10,13 @@
 
 | Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
-| **Arrays & Hashing** | 2 | 25 | 🟨 In Progress |
+| **Arrays & Hashing** | 3 | 25 | 🟨 In Progress |
 | **Two Pointers** | 4 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
 | **Binary Search** | 3 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
-| **Trees & BST** | 6 | 25 | 🟨 In Progress |
+| **Trees & BST** | 7 | 25 | 🟨 In Progress |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
 | **Dynamic Programming** | 0 | 25 | 🟥 Not Started |
 
@@ -51,6 +51,9 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 21 | 2026-08-15 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Trees & BST | Easy | [0572_subtree_of_another_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0572_subtree_of_another_tree.py) | Recursive traversal evaluating structural same-tree checks for each node of the main tree. |
 | 22 | 2026-08-17 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Trees & BST | Easy | [0543_diameter_of_binary_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0543_diameter_of_binary_tree.py) | DFS recursion calculating height of subtrees and updating max diameter nonlocal variable at each node. |
 | 23 | 2026-08-18 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | Medium | [0033_search_in_rotated_sorted_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0033_search_in_rotated_sorted_array.py) | Python index lookup (O(N)) (Note: Optimal O(log N) binary search uses split range evaluation). |
+| 24 | 2026-08-19 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Trees & BST | Easy | [0235_lowest_common_ancestor_of_a_binary_search_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0235_lowest_common_ancestor_of_a_binary_search_tree.py) | Iterative BST node value comparison. Moves left/right according to size check bounds until a split is encountered. |
+| 25 | 2026-08-20 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Arrays & Hashing | Easy | [1929_concatenation_of_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/1929_concatenation_of_array.py) | Array replication: loops index i up to 2N copying element values offset by N where i >= N. |
+
 
 
 
