@@ -15,8 +15,8 @@
 ## 📊 Data Manipulation & Math
 - [x] **NumPy** (Array math, Vectorization, Indexing)
 - [x] **Pandas** (DataFrames, Grouping, Merging, Missing Values)
-- [ ] **Linear Algebra** (Matrix calculations, Vector spaces, SVD)
-- [ ] **Calculus** (Partial derivatives, Gradients, Chain rule)
+- [x] **Linear Algebra** (Matrix calculations, Vector spaces, SVD)
+- [x] **Calculus** (Partial derivatives, Gradients, Chain rule)
 - [ ] **Probability & Statistics** (Distributions, Bayes Theorem, Hypothesis Testing)
 
 ## 🤖 Classical Machine Learning (Scikit-Learn)
