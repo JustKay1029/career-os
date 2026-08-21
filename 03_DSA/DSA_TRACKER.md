@@ -11,7 +11,7 @@
 | Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
 | **Arrays & Hashing** | 3 | 25 | 🟨 In Progress |
-| **Two Pointers** | 4 | 20 | 🟨 In Progress |
+| **Two Pointers** | 5 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
 | **Binary Search** | 3 | 15 | 🟨 In Progress |
@@ -53,6 +53,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 23 | 2026-08-18 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search | Medium | [0033_search_in_rotated_sorted_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0033_search_in_rotated_sorted_array.py) | Python index lookup (O(N)) (Note: Optimal O(log N) binary search uses split range evaluation). |
 | 24 | 2026-08-19 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Trees & BST | Easy | [0235_lowest_common_ancestor_of_a_binary_search_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0235_lowest_common_ancestor_of_a_binary_search_tree.py) | Iterative BST node value comparison. Moves left/right according to size check bounds until a split is encountered. |
 | 25 | 2026-08-20 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Arrays & Hashing | Easy | [1929_concatenation_of_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/1929_concatenation_of_array.py) | Array replication: loops index i up to 2N copying element values offset by N where i >= N. |
+| 26 | 2026-08-21 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers | Easy | [0027_remove_element.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0027_remove_element.py) | Two pointers swap-with-end method. Overwrites matches with last unchecked element without incrementing pointer. |
 
 
 
