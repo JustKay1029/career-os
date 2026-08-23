@@ -6,7 +6,7 @@
 
 ## 📈 Platform Summary
 
-* **LinkedIn Posts Published:** 5
+* **LinkedIn Posts Published:** 9
 * **X (Twitter) Posts Published:** 2
 * **Active Topics:** Classical ML, Prompt Engineering, Project Announcements (pr-pulse, digital_catalog_ai, Kenny-desktop-health), 3D Web Design & Cyberpunk theme.
 
@@ -21,6 +21,10 @@
 | 2026-07-24 | Kirana AI Catalog Pipeline | 3-agent pipeline utilizing Gemini API for local shop digitization. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_python-artificialintelligence-geminiapi-share-7486371459498430464-q6RA) | Shared architectural takeaways and WhatsApp card formatting features. |
 | 2026-07-26 | Kenny Laptop Health MCP Server | Local Model Context Protocol server built with FastMCP and psutil. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_modelcontextprotocol-mcp-python-activity-7487133596114182144-6nIm) | Shared system design details of Jarvis OS vitals diagnostics over stdio. |
 | 2026-07-31 | 3D Web Design & Cyberpunk Theme | Cyberpunk theme three-dimensional web development post. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_webdevelopment-3dwebdesign-cyberpunk-activity-7488852748873003008-5nNd) | Shared progress and visuals on cyberpunk-themed 3D web design. |
+| 2026-08-03 | 3D Web Design & Tech stack | Exploring software engineering components of three-dimensional user interfaces. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_softwareengineering-webdevelopment-3ddesign-activity-7489605240350998528-w_jm) | Shared architectural layout components for WebGL interfaces. |
+| 2026-08-09 | Career OS Weekly Log (Week 32) | Sunday weekly learning review highlighting Gurgaon rent pricing ML logic. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_career-os02weeklylogs2026week32md-activity-7492120351640797184--qzu) | Highlighted target encoding ML pipeline designs. |
+| 2026-08-16 | Career OS Weekly Log (Week 33) | Weekly progress post discussing streak consistency and rotated array splits. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_consistency-isnt-about-never-breaking-a-activity-7494735748651417600-0A0R) | Stressed recovery logic in building habits. |
+| 2026-08-23 | Appathon 2026 Pitching Event | Appathon 2026 college pitching experience tagging judges from Welive. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_appathon2026-hackathon-innovation-activity-7497341893052203008-kkSv) | Explored app idea pitch dynamics and made offline connections. |
 
 ---
 
