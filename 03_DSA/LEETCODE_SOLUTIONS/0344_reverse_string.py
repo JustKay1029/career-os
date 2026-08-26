@@ -7,7 +7,9 @@
 # Key Realization & Learnings:
 # 1. Two Pointers Technique: Place one pointer at the start (left) and one at the end (right) of the array.
 # 2. In-place swapping: Swap the elements at the pointers and move them towards each other (left += 1, right -= 1) until they meet.
-# 3. Python Swapping: Python's parallel assignment `a, b = b, a` allows swapping variables cleanly in a single line without a temporary variable.
+#
+# Note: Re-solved and submitted on 2026-08-26 to maintain streak consistency.
+#
 
 class Solution:
     def reverseString(self, s: List[str]) -> None:
