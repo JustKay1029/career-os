@@ -14,7 +14,7 @@
 | **Two Pointers** | 5 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
-| **Binary Search** | 3 | 15 | 🟨 In Progress |
+| **Binary Search** | 5 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
 | **Trees & BST** | 7 | 25 | 🟨 In Progress |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
@@ -55,6 +55,8 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 25 | 2026-08-20 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Arrays & Hashing | Easy | [1929_concatenation_of_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/1929_concatenation_of_array.py) | Array replication: loops index i up to 2N copying element values offset by N where i >= N. |
 | 26 | 2026-08-21 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers | Easy | [0027_remove_element.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0027_remove_element.py) | Two pointers swap-with-end method. Overwrites matches with last unchecked element without incrementing pointer. |
 | 27 | 2026-08-23 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Arrays & Hashing | Medium | [0912_sort_an_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0912_sort_an_array.py) | Merge sort implementation: divide array in half recursively and merge sorted segments in O(N log N) time. |
+| 28 | 2026-08-24 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search | Easy | [0069_sqrtx.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0069_sqrtx.py) | Python-specific float sqrt cast conversion check (Note: Optimal integer math O(log N) binary search reference added). |
+| 29 | 2026-08-25 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | [0035_search_insert_position.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0035_search_insert_position.py) | Custom binary search interval convergence loop returning left index convergence target position. |
 
 
 
