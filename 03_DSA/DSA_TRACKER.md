@@ -11,7 +11,7 @@
 | Pattern | Solved (New) | Target | Status |
 | :--- | :---: | :---: | :--- |
 | **Arrays & Hashing** | 4 | 25 | 🟨 In Progress |
-| **Two Pointers** | 5 | 20 | 🟨 In Progress |
+| **Two Pointers** | 7 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
 | **Stack & Queue** | 3 | 15 | 🟨 In Progress |
 | **Binary Search** | 5 | 15 | 🟨 In Progress |
@@ -57,6 +57,8 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 27 | 2026-08-23 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Arrays & Hashing | Medium | [0912_sort_an_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0912_sort_an_array.py) | Merge sort implementation: divide array in half recursively and merge sorted segments in O(N log N) time. |
 | 28 | 2026-08-24 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search | Easy | [0069_sqrtx.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0069_sqrtx.py) | Python-specific float sqrt cast conversion check (Note: Optimal integer math O(log N) binary search reference added). |
 | 29 | 2026-08-25 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | [0035_search_insert_position.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0035_search_insert_position.py) | Custom binary search interval convergence loop returning left index convergence target position. |
+| 30 | 2026-08-26 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Two Pointers | Easy | [0680_valid_palindrome_ii.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0680_valid_palindrome_ii.py) | Two pointers greedy palindrome validation branching into skipped left or right checks upon mismatch detection. |
+| 31 | 2026-08-27 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Two Pointers | Medium | [0189_rotate_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0189_rotate_array.py) | In-place element rotation by shifting elements via insertions/pops (Note: Optimal O(N) 3-step reversal reference added). |
 
 
 
