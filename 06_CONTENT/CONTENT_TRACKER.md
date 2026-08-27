@@ -6,7 +6,7 @@
 
 ## 📈 Platform Summary
 
-* **LinkedIn Posts Published:** 9
+* **LinkedIn Posts Published:** 10
 * **X (Twitter) Posts Published:** 2
 * **Active Topics:** Classical ML, Prompt Engineering, Project Announcements (pr-pulse, digital_catalog_ai, Kenny-desktop-health), 3D Web Design & Cyberpunk theme.
 
@@ -25,6 +25,7 @@
 | 2026-08-09 | Career OS Weekly Log (Week 32) | Sunday weekly learning review highlighting Gurgaon rent pricing ML logic. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_career-os02weeklylogs2026week32md-activity-7492120351640797184--qzu) | Highlighted target encoding ML pipeline designs. |
 | 2026-08-16 | Career OS Weekly Log (Week 33) | Weekly progress post discussing streak consistency and rotated array splits. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_consistency-isnt-about-never-breaking-a-activity-7494735748651417600-0A0R) | Stressed recovery logic in building habits. |
 | 2026-08-23 | Appathon 2026 Pitching Event | Appathon 2026 college pitching experience tagging judges from Welive. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_appathon2026-hackathon-innovation-activity-7497341893052203008-kkSv) | Explored app idea pitch dynamics and made offline connections. |
+| 2026-08-27 | Technical Networking Discussion | Initiating developer ecosystem discussion on value-first outreach rules. | [Link](https://lnkd.in/p/dJNG-7jz) | Shared thoughts on GSoC outreach and active building guidelines. |
 
 ---
 
