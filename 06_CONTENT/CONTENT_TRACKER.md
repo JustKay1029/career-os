@@ -6,7 +6,7 @@
 
 ## 📈 Platform Summary
 
-* **LinkedIn Posts Published:** 10
+* **LinkedIn Posts Published:** 11
 * **X (Twitter) Posts Published:** 2
 * **Active Topics:** Classical ML, Prompt Engineering, Project Announcements (pr-pulse, digital_catalog_ai, Kenny-desktop-health), 3D Web Design & Cyberpunk theme.
 
@@ -26,6 +26,8 @@
 | 2026-08-16 | Career OS Weekly Log (Week 33) | Weekly progress post discussing streak consistency and rotated array splits. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_consistency-isnt-about-never-breaking-a-activity-7494735748651417600-0A0R) | Stressed recovery logic in building habits. |
 | 2026-08-23 | Appathon 2026 Pitching Event | Appathon 2026 college pitching experience tagging judges from Welive. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_appathon2026-hackathon-innovation-activity-7497341893052203008-kkSv) | Explored app idea pitch dynamics and made offline connections. |
 | 2026-08-27 | Technical Networking Discussion | Initiating developer ecosystem discussion on value-first outreach rules. | [Link](https://lnkd.in/p/dJNG-7jz) | Shared thoughts on GSoC outreach and active building guidelines. |
+| 2026-08-30 | NeetCode 34-Day Streak Reflection | Sharing takeaways on avoiding shortcuts and building structured routines. | [Link](https://lnkd.in/p/du8g8mKy) | Discussed habit consistency over grid perfection and DSA mechanics. |
+
 
 ---
 
