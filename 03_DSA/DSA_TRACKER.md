@@ -13,7 +13,7 @@
 | **Arrays & Hashing** | 4 | 25 | 🟨 In Progress |
 | **Two Pointers** | 8 | 20 | 🟨 In Progress |
 | **Sliding Window** | 1 | 15 | 🟨 In Progress |
-| **Stack & Queue** | 3 | 15 | 🟨 In Progress |
+| **Stack & Queue** | 4 | 15 | 🟨 In Progress |
 | **Binary Search** | 5 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
 | **Trees & BST** | 7 | 25 | 🟨 In Progress |
@@ -60,6 +60,7 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 30 | 2026-08-26 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Two Pointers | Easy | [0680_valid_palindrome_ii.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0680_valid_palindrome_ii.py) | Two pointers greedy palindrome validation branching into skipped left or right checks upon mismatch detection. |
 | 31 | 2026-08-27 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Two Pointers | Medium | [0189_rotate_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0189_rotate_array.py) | In-place element rotation by shifting elements via insertions/pops (Note: Optimal O(N) 3-step reversal reference added). |
 | 32 | 2026-08-29 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Two Pointers | Medium | [0075_sort_colors.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0075_sort_colors.py) | Two-pass counting sort tracking frequencies of 0, 1, and 2. (Note: Optimal one-pass Dutch National Flag algorithm reference added). |
+| 33 | 2026-08-30 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Stack & Queue | Easy | [0682_baseball_game.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0682_baseball_game.py) | Standard stack operations adding double or sum operations sequentially into a result array. |
 
 
 
