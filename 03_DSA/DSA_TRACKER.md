@@ -12,11 +12,11 @@
 | :--- | :---: | :---: | :--- |
 | **Arrays & Hashing** | 4 | 25 | 🟨 In Progress |
 | **Two Pointers** | 8 | 20 | 🟨 In Progress |
-| **Sliding Window** | 1 | 15 | 🟨 In Progress |
-| **Stack & Queue** | 4 | 15 | 🟨 In Progress |
-| **Binary Search** | 5 | 15 | 🟨 In Progress |
+| **Sliding Window** | 2 | 15 | 🟨 In Progress |
+| **Stack & Queue** | 5 | 15 | 🟨 In Progress |
+| **Binary Search** | 6 | 15 | 🟨 In Progress |
 | **Linked List** | 3 | 15 | 🟨 In Progress |
-| **Trees & BST** | 7 | 25 | 🟨 In Progress |
+| **Trees & BST** | 8 | 25 | 🟨 In Progress |
 | **Graphs & BFS/DFS** | 0 | 25 | 🟥 Not Started |
 | **Dynamic Programming** | 0 | 25 | 🟥 Not Started |
 
@@ -61,6 +61,10 @@ Add new entries here as they are solved. Store code files inside the `LEETCODE_S
 | 31 | 2026-08-27 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Two Pointers | Medium | [0189_rotate_array.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0189_rotate_array.py) | In-place element rotation by shifting elements via insertions/pops (Note: Optimal O(N) 3-step reversal reference added). |
 | 32 | 2026-08-29 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Two Pointers | Medium | [0075_sort_colors.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0075_sort_colors.py) | Two-pass counting sort tracking frequencies of 0, 1, and 2. (Note: Optimal one-pass Dutch National Flag algorithm reference added). |
 | 33 | 2026-08-30 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Stack & Queue | Easy | [0682_baseball_game.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0682_baseball_game.py) | Standard stack operations adding double or sum operations sequentially into a result array. |
+| 34 | 2026-08-31 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Stack & Queue | Easy | [0232_implement_queue_using_stacks.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0232_implement_queue_using_stacks.py) | Queue interface implementation. (Note: Optimal amortized O(1) two-stack design included in notes). |
+| 35 | 2026-09-01 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | Easy | [0374_guess_number_higher_or_lower.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0374_guess_number_higher_or_lower.py) | Classic binary search converging bounds [1, n] using external guess API response. |
+| 36 | 2026-09-02 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Sliding Window | Medium | [0567_permutation_in_string.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0567_permutation_in_string.py) | Fixed-size sliding window comparing character frequency arrays via matches counter in O(N) time. |
+| 37 | 2026-09-03 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Trees & BST | Medium | [0098_validate_binary_search_tree.py](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/03_DSA/LEETCODE_SOLUTIONS/0098_validate_binary_search_tree.py) | Recursive DFS carrying valid value boundaries (low, high) at every node to ensure BST ordering. |
 
 
 

@@ -12,6 +12,8 @@
 | Tushar Agarwal | Founder / Judge | Welive | 2026-08-23 | Met face-to-face at IILM Appathon 2026. Connected on LinkedIn: [tushar-agarwal-3744b51ab](https://linkedin.com/in/tushar-agarwal-3744b51ab) |
 | Takemura Yukako | Chief AI Officer / Judge | Welive | 2026-08-23 | Met face-to-face at IILM Appathon 2026. Connected on LinkedIn: [takemura-yukako-126380212](https://linkedin.com/in/takemura-yukako-126380212) |
 | Noriaki Ikai | Co-Founder / Judge | Welive | 2026-08-23 | Met face-to-face at IILM Appathon 2026. Connected on LinkedIn: [noriaki-ikai-059a603b7](https://linkedin.com/in/noriaki-ikai-059a603b7) |
+| Parv Dahiya | Hackathon Judge | SIH 2026 Internal / Delhi NCR | 2026-09-03 | Met face-to-face as judge at IILM SIH 2026 Internal Hackathon. Connected on LinkedIn: [parv-dahiya-b90646188](https://www.linkedin.com/in/parv-dahiya-b90646188/) |
+| Vinay Arora | People Leader & Director of Technology | NielsenIQ | 2026-09-03 | Met face-to-face as judge at IILM SIH 2026 Internal Hackathon. Connected on LinkedIn: [vinayarora](https://www.linkedin.com/in/vinayarora/) |
 
 ---
 
