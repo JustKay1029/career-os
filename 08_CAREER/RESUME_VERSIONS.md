@@ -9,6 +9,7 @@
 | Version | Date | Key Update / Focus | Format / Link | Target Roles | Feedback Received |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **v1.0** | 2026-07 | Initial structure. Added B.Tech CSE (IILM), basic Python/Data stack, and first ML project placeholder. | *[Link to PDF/Drive]* | Standard SWE/ML Internships | |
+| **v2.0** | 2026-09 | Revamped for AI Engineering / Applied AI. Added SIH 2nd Place, ORCA, Digital Catalog AI, PR-Pulse, and 75+ DSA milestone. | [RESUME_v2.0.md](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/08_CAREER/RESUME_v2.0.md) | AI Engineer / GenAI / SWE Internships | Clean Jake's Resume LaTeX format |
 
 ---
 

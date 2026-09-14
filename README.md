@@ -65,9 +65,9 @@
 
 | Metric | Status / Count | Goal (Yearly) |
 | :--- | :--- | :--- |
-| **Days Active (Overall)** | 109 | 250+ Days |
-| **Current Commit Streak** | 2 Days | Maximize |
-| **LinkedIn Posts** | 11 | 50 Posts |
+| **Days Active (Overall)** | 112 | 250+ Days |
+| **Current Commit Streak** | 4 Days | Maximize |
+| **LinkedIn Posts** | 13 | 50 Posts |
 | **X (Twitter) Posts** | 2 | 50 Posts |
 | **Projects Shipped** | 5 | 4 Major Projects |
 
@@ -82,6 +82,6 @@
 * 📂 [04_PROJECTS](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS) - [PROJECT_PIPELINE.md](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_PIPELINE.md) & detailed project specs.
 * 📂 [05_NETWORKING](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/05_NETWORKING) - Industry professionals, recruiters, and communities in NCR/Gurgaon.
 * 📂 [06_CONTENT](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/06_CONTENT) - Content calendars and draft logs.
-* 📂 [07_LEARNING](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/07_LEARNING) - AI research paper notes, tech book logs, and trends.
+* 📂 [07_LEARNING](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/07_LEARNING) - [COURSES_AND_CERTS.md](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/07_LEARNING/COURSES_AND_CERTS.md), AI research paper notes, and tech books.
 * 📂 [08_CAREER](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/08_CAREER) - Internship funnel and resume versions.
 * 📂 [09_REVIEWS](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/09_REVIEWS) - Monthly and Quarterly reflection journals.

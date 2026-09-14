@@ -6,9 +6,9 @@
 
 ## 📈 Platform Summary
 
-* **LinkedIn Posts Published:** 11
+* **LinkedIn Posts Published:** 13
 * **X (Twitter) Posts Published:** 2
-* **Active Topics:** Classical ML, Prompt Engineering, Project Announcements (pr-pulse, digital_catalog_ai, Kenny-desktop-health), 3D Web Design & Cyberpunk theme.
+* **Active Topics:** Classical ML, Prompt Engineering, Project Announcements (pr-pulse, digital_catalog_ai, Kenny-desktop-health), 3D Web Design & Cyberpunk theme, Hackathons (SIH 2026).
 
 ---
 
@@ -27,6 +27,8 @@
 | 2026-08-23 | Appathon 2026 Pitching Event | Appathon 2026 college pitching experience tagging judges from Welive. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_appathon2026-hackathon-innovation-activity-7497341893052203008-kkSv) | Explored app idea pitch dynamics and made offline connections. |
 | 2026-08-27 | Technical Networking Discussion | Initiating developer ecosystem discussion on value-first outreach rules. | [Link](https://lnkd.in/p/dJNG-7jz) | Shared thoughts on GSoC outreach and active building guidelines. |
 | 2026-08-30 | NeetCode 34-Day Streak Reflection | Sharing takeaways on avoiding shortcuts and building structured routines. | [Link](https://lnkd.in/p/du8g8mKy) | Discussed habit consistency over grid perfection and DSA mechanics. |
+| 2026-09-06 | SIH 2026 2nd Place & 41-Day NeetCode Streak | Shared hackathon podium finish and maintaining habit consistency while sick in bed. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_smartindiahackathon-sih2026-hackathon-activity-7502404089654185984-U375) | Celebrated SIH 2026 Internal 2nd place and tagged judges Vinay Arora & Parv Dahiya. |
+| 2026-09-13 | SIH 2026 Multi-Agent Architecture & Team | Technical retrospective on Problem Statement #176, government data ingestion, and geofencing. | [Link](https://www.linkedin.com/posts/kavya-gupta-b65751365_smartindiahackathon-sih2026-hackathon-activity-7504949713897689089--2lh) | Shared architecture takeaways on agentic orchestration for maritime advisory. |
 
 
 ---
