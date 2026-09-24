@@ -20,60 +20,63 @@ Companies hiring early-career AI Engineers in late 2026 do **not** expect you to
 
 ---
 
-## 📅 The 12-Week Sprint Schedule
+## 🛡️ Phase 0: Academic Defense Mode (September 25 – October 10)
+> **Objective:** Master 3rd-semester syllabus, crush mid-sems (Oct 5–10), and protect 8.43+ CGPA.
+* **Rule:** Zero cognitive guilt about pausing side-project coding. CGPA is an absolute threshold filter for top-tier internships.
+* **Coding Activity:** Maintenance only (light 15-min syntax review or syllabus DSA/DBMS synergy).
 
-### 🍁 Month 1: October 2026 — Ship Production RAG & FastAPI (PROJ-03)
+---
+
+## 📅 The 11.5-Week Execution Schedule (October 12 – December 31)
+
+### 🍁 Sprint 1: October 12 – November 08 (4 Weeks) — Ship Production RAG & FastAPI (PROJ-03)
 *Goal: Turn PROJ-03 into your first 100% shipped, public-facing production AI system.*
 
-* **Week 1 (Oct 01 – Oct 07): Production Python & FastAPI Service**
-  * Master `Pydantic v2` for structured inputs/outputs and data validation.
+* **Week 1 (Oct 12 – Oct 18): Production Python & FastAPI Service**
+  * Master `Pydantic v2` for structured validation.
   * Build an asynchronous FastAPI backend (`async def`, background tasks, streaming responses).
   * **Free Resource:** [FastAPI Official Tutorial](https://fastapi.tiangolo.com/tutorial/) & [Pydantic Documentation](https://docs.pydantic.dev/).
-* **Week 2 (Oct 08 – Oct 14): Retrieval Architecture (ChromaDB + Hybrid Search)**
-  * Implement document parsing (PDF/Markdown), recursive character chunking with token overlap.
-  * Connect ChromaDB/Qdrant vector store with local/free embedding models (Hugging Face / Gemini).
+* **Week 2 (Oct 19 – Oct 25): Retrieval Architecture (ChromaDB + Hybrid Search)**
+  * Document parsing (PDF/Markdown) and recursive character chunking with token overlap.
+  * Connect ChromaDB with local/free embedding models (Hugging Face / Gemini).
   * **Free Resource:** [DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/).
-* **Week 3 (Oct 15 – Oct 21): Observability, Evaluation & Pytest**
+* **Week 3 (Oct 26 – Nov 01): Observability, Evaluation & Pytest**
   * Integrate **Langfuse** for live latency, token cost, and trace monitoring.
   * Write automated tests using `pytest` (mocking vector search and LLM calls).
   * **Free Resource:** [Langfuse Open Source Docs](https://langfuse.com/docs) & [Corey Schafer PyTest Playlist](https://www.youtube.com/@coreyms).
-* **Week 4 (Oct 22 – Oct 31): Containerization & Public Deployment**
+* **Week 4 (Nov 02 – Nov 08): Containerization & Public Deployment**
   * Write a production multi-stage `Dockerfile`.
-  * Deploy live to **Render** or **Hugging Face Spaces** with a clean UI (Streamlit or React).
+  * Deploy live to **Render** or **Hugging Face Spaces** with a clean UI.
   * **Deliverable:** **PROJ-03 Shipped** with a live public URL and public GitHub repository!
 
 ---
 
-### ❄️ Month 2: November 2026 — GSoC 2027 Open Source Infiltration
-*Goal: Establish credibility in open source before official GSoC organization announcements.*
+### ❄️ Sprint 2: November 09 – December 06 (4 Weeks) — GSoC 2027 Open Source Infiltration
+*Goal: Establish credibility in open source and get 3–5 pull requests merged.*
 
-* **Why Start in November for GSoC 2027?**
-  * GSoC organizations are announced in February/March, but maintainers pick contributors who have **already been active** in their repos during the winter.
+* **Why November for GSoC 2027?** Maintainers select contributors who have already demonstrated familiarity with their codebase, testing standards, and community before official project proposals open.
 * **Target Repositories (Pick 1 or 2):**
-  1. **LiteLLM** (`BerriAI/litellm`): Fast-moving, Python, proxy for 100+ LLMs. High volume of "good first issues".
-  2. **Chroma** (`chroma-core/chroma`): Python/C++, open-source vector store. Great community for indexing/RAG.
-  3. **LangChain / LlamaIndex**: Massive ecosystems with active integrations and documentation tracks.
-  4. **Scikit-Learn** or **SymPy**: Classic Python open-source mainstays with dedicated GSoC slots.
+  1. **LiteLLM** (`BerriAI/litellm`): Fast-moving, Python, proxy for 100+ LLMs. High volume of `good first issue` tags.
+  2. **Chroma** (`chroma-core/chroma`): Python/C++, open-source vector store. Excellent community for retrieval issues.
+  3. **Scikit-Learn** or **LlamaIndex**: Established ecosystems with recurring GSoC project slots.
 * **Weekly Execution:**
-  * **Week 5 (Nov 01 – Nov 07): Setup & Codebase Familiarization**
-    * Clone target repo, set up the development environment, run the full test suite locally.
+  * **Week 5 (Nov 09 – Nov 15): Setup & Codebase Familiarization**
+    * Clone target repo, set up the local development environment, run test suite locally.
     * Join the organization's Discord/Slack and introduce yourself in `#contributing`.
-  * **Week 6 (Nov 08 – Nov 14): PR #1 & #2 (Low-Hanging Fruit)**
+  * **Week 6 (Nov 16 – Nov 22): PR #1 & #2 (Low-Hanging Fruit)**
     * Filter issues by `good first issue`, `documentation`, or `type: bug`.
-    * Fix typos in docs, add missing type hints, or add missing edge-case unit tests.
-  * **Week 7 (Nov 15 – Nov 21): PR #3 & #4 (Substantive Bug Fix / Feature)**
-    * Claim an open bug fix or implement a small requested feature.
-    * Follow contribution guidelines strictly: write tests, format code with `ruff`/`black`, submit descriptive PR.
-  * **Week 8 (Nov 22 – Nov 30): Relationship Building**
-    * Actively review other contributors' PRs and help answer questions in issues.
-    * Document your open-source journey on LinkedIn.
+    * Fix docs typos, add missing type hints, or add missing edge-case unit tests.
+  * **Week 7 (Nov 23 – Nov 29): PR #3 & #4 (Substantive Bug Fix / Feature)**
+    * Claim an open bug fix or implement a small requested feature with unit tests.
+  * **Week 8 (Nov 30 – Dec 06): Relationship Building & Proposal Alignment**
+    * Actively review other contributors' PRs, answer discussions, and identify potential GSoC proposal areas.
 
 ---
 
-### 🚀 Month 3: December 2026 — Multi-Agent System & Internship Funnel
+### 🚀 Sprint 3: December 07 – December 31 (3.5 Weeks) — Multi-Agent System & Internship Funnel
 *Goal: Package your portfolio, build proof of agentic engineering, and trigger outbound applications.*
 
-* **Week 9–10 (Dec 01 – Dec 14): Autonomous Agent System (PROJ-08)**
+* **Week 9–10 (Dec 07 – Dec 20): Autonomous Agent System (PROJ-08)**
   * Build an advanced multi-agent system using **LangGraph** with state persistence and human-in-the-loop controls.
   * Alternatively, elevate **ORCA** (SIH 2nd place project) into a standalone, live web platform.
   * **Free Resource:** [DeepLearning.AI: LangChain & LangGraph Courses](https://www.deeplearning.ai/short-courses/).
