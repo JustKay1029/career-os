@@ -15,6 +15,7 @@
 | **PROJ-05** | Kenny-desktop-health (Jarvis Health) | Systems / MCP | Python, FastMCP, psutil | 🟡 Local MCP Prototype | [JustKay1029/Kenny-desktop-health](https://github.com/JustKay1029/Kenny-desktop-health) |
 | **PROJ-06** | digital_catalog_ai (Kirana Pipeline) | Generative AI | Python, Gemini API, Schema | 🟡 Script / PoC | [JustKay1029/digital_catalog_ai](https://github.com/JustKay1029/digital_catalog_ai) |
 | **PROJ-07** | Fishermen Maritime Safety & Advisory Platform (SIH PS-176) | Multi-Agent / Gov Data | Python, Multi-Agent, APIs, HTML-to-JSON Parsing, Geofencing | 🥈 Hackathon Prototype (2nd Place SIH Internal) | [Aarushtech-coder/SIH---2026-PS---176-](https://github.com/Aarushtech-coder/SIH---2026-PS---176-) |
+| **PROJ-08** | Jarvis Desktop & Browser OS Agent | Autonomous Systems / MCP | Python, LangGraph, FastMCP, Playwright, Computer Use | 💡 In Ideation (Planned for Sprint 3) | [PROJECT_08_JARVIS_DESKTOP_AGENT.md](file:///C:/Users/kavya/Documents/antigravity/fearless-faraday/04_PROJECTS/PROJECT_08_JARVIS_DESKTOP_AGENT.md) |
 
 ---
 

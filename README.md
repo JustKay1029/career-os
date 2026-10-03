@@ -41,6 +41,7 @@
 - [x] **AI-02:** **Kirana AI Catalog Pipeline (digital_catalog_ai)** - 3-stage multi-agent pipeline enforcing structured JSON schemas.
 - [x] **SYS-01:** **Jarvis Laptop Health MCP Server (Kenny-desktop-health)** - Local diagnostics tool exposing CPU/RAM vitals to LLM clients.
 - [x] **HACK-01:** **Fishermen Maritime Safety & Advisory Platform (SIH 2026 PS-176)** - Multi-agent orchestration, GPS geofencing & live marine data parser (🥈 2nd Place SIH 2026 Internal Hackathon).
+- [ ] **SYS-02:** **Jarvis Desktop & Browser OS Agent (PROJ-08)** - Autonomous desktop computer-use & Perplexity-style browser assistant powered by LangGraph, FastMCP & Playwright.
 
 #### Career & Authority
 - [ ] Land Research or Industry Internship 1
