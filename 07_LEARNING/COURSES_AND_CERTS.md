@@ -15,6 +15,14 @@
   * Deepening understanding of Python's underlying memory model, object references, manual data structure implementations (stacks, queues, linked lists, hash collisions, trees, heaps), and recursion limits.
   * Transitioning from using built-in shorthand functions (`.index()`, `pop(0)`) to implementing textbook, whiteboard-ready algorithmic patterns.
 
+### 2. FastAPI & Pydantic Learning Lab
+* **Track:** Production Backend API Architecture & Modern Validation
+* **Repository:** [JustKay1029/fastapi-learning](https://github.com/JustKay1029/fastapi-learning)
+* **Status:** 🟢 Active / Running Lab (Started October 2026)
+* **Strategic Objective:**
+  * Implementing asynchronous FastAPI endpoints, route decorators, request validation with Pydantic v2 schemas.
+  * Mastering runtime server lifecycles with Uvicorn and interactive Swagger documentation at `/docs`.
+
 ---
 
 ## 🏆 Completed Certifications Log

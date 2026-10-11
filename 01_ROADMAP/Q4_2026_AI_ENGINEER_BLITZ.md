@@ -32,11 +32,11 @@ Companies hiring early-career AI Engineers in late 2026 do **not** expect you to
 ### 🍁 Sprint 1: October 12 – November 08 (4 Weeks) — Ship Production RAG & FastAPI (PROJ-03)
 *Goal: Turn PROJ-03 into your first 100% shipped, public-facing production AI system.*
 
-* **Week 1 (Oct 12 – Oct 18): Production Python & FastAPI Service**
-  * Master `Pydantic v2` for structured validation.
-  * Build an asynchronous FastAPI backend (`async def`, background tasks, streaming responses).
-  * **Free Resource:** [FastAPI Official Tutorial](https://fastapi.tiangolo.com/tutorial/) & [Pydantic Documentation](https://docs.pydantic.dev/).
-* **Week 2 (Oct 19 – Oct 25): Retrieval Architecture (ChromaDB + Hybrid Search)**
+* **[x] Week 1 (Oct 12 – Oct 18): Production Python & FastAPI Service**
+  * Mastered `Pydantic v2` (`BaseModel`, `Field`, type validation, `.model_dump()`).
+  * Built asynchronous FastAPI backend with routing, Pydantic route integration, Uvicorn, and Swagger UI (`/docs`).
+  * Passed technical engineering evaluation with distinction.
+* **[ ] Week 2 (Oct 19 – Oct 25): Retrieval Architecture (ChromaDB + Vector Embeddings)**
   * Document parsing (PDF/Markdown) and recursive character chunking with token overlap.
   * Connect ChromaDB with local/free embedding models (Hugging Face / Gemini).
   * **Free Resource:** [DeepLearning.AI: Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/).
