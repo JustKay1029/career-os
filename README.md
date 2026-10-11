@@ -66,8 +66,8 @@
 
 | Metric | Status / Count | Goal (Yearly) |
 | :--- | :--- | :--- |
-| **Days Active (Overall)** | 122 | 250+ Days |
-| **Current Commit Streak** | 1 Day | Maximize |
+| **Days Active (Overall)** | 129 | 250+ Days |
+| **Current Commit Streak** | 2 Days | Maximize |
 | **LinkedIn Posts** | 13 | 50 Posts |
 | **X (Twitter) Posts** | 2 | 50 Posts |
 | **Projects Shipped** | 0 Production (5 Prototypes) | 4 Production Systems |
