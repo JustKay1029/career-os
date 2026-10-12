@@ -49,7 +49,7 @@ graph TD
 
 ## 📅 Sprint 1 Milestones
 - [x] **Milestone 0 (Oct 10):** Architecture & schemas specification.
-- [ ] **Milestone 1 (Oct 11):** Chunking pipeline and Pydantic data models with unit tests.
+- [x] **Milestone 1 (Oct 11):** Chunking pipeline and Pydantic data models with unit tests.
 - [ ] **Milestone 2 (Oct 18):** ChromaDB persistent indexing & semantic similarity search.
 - [ ] **Milestone 3 (Oct 25):** Grounded LLM answer generation with citation mapping.
 - [ ] **Milestone 4 (Nov 01):** FastAPI endpoints, error handling, and test suite.
